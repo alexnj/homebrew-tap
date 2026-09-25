@@ -1,8 +1,18 @@
-# Alexnj Tap
+# alexnj/tap
 
-## How do I install these formulae?
+Homebrew formulae by [@alexnj](https://github.com/alexnj).
 
-`brew install alexnj/tap/<formula>`
+## Formulae
+
+| Formula | Description |
+|---|---|
+| [disc-verify](https://github.com/alexnj/disc-verify) | Verify that every sector of a CD, DVD or Blu-ray is readable |
+
+## Install
+
+```sh
+brew install alexnj/tap/<formula>
+```
 
 Or `brew tap alexnj/tap` and then `brew install <formula>`.
 
@@ -12,7 +22,3 @@ Or, in a `brew bundle` `Brewfile`:
 tap "alexnj/tap"
 brew "<formula>"
 ```
-
-## Documentation
-
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
