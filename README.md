@@ -7,6 +7,7 @@ Homebrew formulae by [@alexnj](https://github.com/alexnj).
 | Formula | Description |
 |---|---|
 | [disc-verify](https://github.com/alexnj/disc-verify) | Verify that every sector of a CD, DVD or Blu-ray is readable |
+| [protect-dl](https://github.com/alexnj/protect-dl) | Download recorded footage from a local UniFi Protect console |
 
 ## Install
 
